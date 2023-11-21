@@ -1,0 +1,144 @@
+Collecting absl-py==0.11.0
+  Using cached absl_py-0.11.0-py3-none-any.whl (127 kB)
+Collecting astor==0.8.1
+  Using cached astor-0.8.1-py2.py3-none-any.whl (27 kB)
+Collecting astunparse==1.6.3
+  Using cached astunparse-1.6.3-py2.py3-none-any.whl (12 kB)
+Collecting backcall==0.2.0
+  Using cached backcall-0.2.0-py2.py3-none-any.whl (11 kB)
+Collecting beautifulsoup4==4.9.3
+  Using cached beautifulsoup4-4.9.3-py3-none-any.whl (115 kB)
+Collecting cached-property==1.5.2
+  Using cached cached_property-1.5.2-py2.py3-none-any.whl (7.6 kB)
+Collecting cachetools==4.2.0
+  Using cached cachetools-4.2.0-py3-none-any.whl (12 kB)
+Collecting certifi==2020.6.20
+  Using cached certifi-2020.6.20-py2.py3-none-any.whl (156 kB)
+Collecting cffi==1.14.3
+  Using cached cffi-1.14.3.tar.gz (470 kB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting chardet==3.0.4
+  Using cached chardet-3.0.4-py2.py3-none-any.whl (133 kB)
+Collecting click==7.1.2
+  Using cached click-7.1.2-py2.py3-none-any.whl (82 kB)
+Collecting colorama==0.4.4
+  Using cached colorama-0.4.4-py2.py3-none-any.whl (16 kB)
+Collecting contextlib2==0.6.0.post1
+  Using cached contextlib2-0.6.0.post1-py2.py3-none-any.whl (9.8 kB)
+Collecting cryptography==3.1.1
+  Using cached cryptography-3.1.1.tar.gz (534 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting cycler==0.10.0
+  Using cached cycler-0.10.0-py2.py3-none-any.whl (6.5 kB)
+Collecting dataclasses==0.6
+  Using cached dataclasses-0.6-py3-none-any.whl (14 kB)
+Collecting decorator==4.4.2
+  Using cached decorator-4.4.2-py2.py3-none-any.whl (9.2 kB)
+Collecting Deprecated==1.2.10
+  Using cached Deprecated-1.2.10-py2.py3-none-any.whl (8.7 kB)
+Collecting deprecation==2.1.0
+  Using cached deprecation-2.1.0-py2.py3-none-any.whl (11 kB)
+Collecting eyeD3==0.9.5
+  Using cached eyeD3-0.9.5-py2.py3-none-any.whl (145 kB)
+Collecting filetype==1.0.7
+  Using cached filetype-1.0.7-py2.py3-none-any.whl (15 kB)
+Collecting findpeaks==2.1.1
+  Using cached findpeaks-2.1.1-py3-none-any.whl (35 kB)
+Collecting Flask==1.1.2
+  Using cached Flask-1.1.2-py2.py3-none-any.whl (94 kB)
+Collecting flatbuffers==1.12
+  Using cached flatbuffers-1.12-py2.py3-none-any.whl (15 kB)
+Collecting gast==0.4.0
+  Using cached gast-0.4.0-py3-none-any.whl (9.8 kB)
+Collecting gitdb==4.0.5
+  Using cached gitdb-4.0.5-py3-none-any.whl (63 kB)
+Collecting GitPython==3.1.9
+  Using cached GitPython-3.1.9-py3-none-any.whl (159 kB)
+Collecting google-auth==1.24.0
+  Using cached google_auth-1.24.0-py2.py3-none-any.whl (114 kB)
+Collecting google-auth-oauthlib==0.4.2
+  Using cached google_auth_oauthlib-0.4.2-py2.py3-none-any.whl (18 kB)
+Collecting google-pasta==0.2.0
+  Using cached google_pasta-0.2.0-py3-none-any.whl (57 kB)
+Collecting grpcio==1.34.0
+  Using cached grpcio-1.34.0.tar.gz (21.0 MB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting h5py
+  Using cached h5py-3.10.0-cp311-cp311-macosx_11_0_arm64.whl (2.6 MB)
+Collecting idna==2.10
+  Using cached idna-2.10-py2.py3-none-any.whl (58 kB)
+Collecting imageio==2.9.0
+  Using cached imageio-2.9.0-py3-none-any.whl (3.3 MB)
+Collecting importlib-metadata==3.4.0
+  Using cached importlib_metadata-3.4.0-py3-none-any.whl (10 kB)
+Collecting ipykernel==5.3.4
+  Using cached ipykernel-5.3.4-py3-none-any.whl (120 kB)
+Collecting ipython==7.16.1
+  Using cached ipython-7.16.1-py3-none-any.whl (785 kB)
+Collecting ipython-genutils==0.2.0
+  Using cached ipython_genutils-0.2.0-py2.py3-none-any.whl (26 kB)
+Collecting itsdangerous==1.1.0
+  Using cached itsdangerous-1.1.0-py2.py3-none-any.whl (16 kB)
+Collecting jedi==0.17.2
+  Using cached jedi-0.17.2-py2.py3-none-any.whl (1.4 MB)
+Collecting Jinja2==2.11.2
+  Using cached Jinja2-2.11.2-py2.py3-none-any.whl (125 kB)
+Collecting joblib==0.17.0
+  Using cached joblib-0.17.0-py3-none-any.whl (301 kB)
+Collecting jupyter-client==6.1.7
+  Using cached jupyter_client-6.1.7-py3-none-any.whl (108 kB)
+Collecting jupyter-core==4.6.3
+  Using cached jupyter_core-4.6.3-py2.py3-none-any.whl (83 kB)
+Collecting Keras==2.4.3
+  Using cached Keras-2.4.3-py2.py3-none-any.whl (36 kB)
+Collecting Keras-Applications==1.0.8
+  Using cached Keras_Applications-1.0.8-py3-none-any.whl (50 kB)
+Collecting Keras-Preprocessing==1.1.2
+  Using cached Keras_Preprocessing-1.1.2-py2.py3-none-any.whl (42 kB)
+Collecting kiwisolver==1.2.0
+  Using cached kiwisolver-1.2.0.tar.gz (52 kB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting lightgbm==3.2.0
+  Using cached lightgbm-3.2.0.tar.gz (1.5 MB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting lml==0.1.0
+  Using cached lml-0.1.0-py2.py3-none-any.whl (10 kB)
+Collecting Markdown==3.3.3
+  Using cached Markdown-3.3.3-py3-none-any.whl (96 kB)
+Collecting MarkupSafe==1.1.1
+  Using cached MarkupSafe-1.1.1.tar.gz (19 kB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting matplotlib==3.2.1
+  Using cached matplotlib-3.2.1.tar.gz (40.3 MB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting metakernel==0.27.5
+  Using cached metakernel-0.27.5-py2.py3-none-any.whl (208 kB)
+Collecting networkx==2.5
+  Using cached networkx-2.5-py3-none-any.whl (1.6 MB)
+Collecting numpy==1.19.5
+  Using cached numpy-1.19.5.zip (7.3 MB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting oauthlib==3.1.0
+  Using cached oauthlib-3.1.0-py2.py3-none-any.whl (147 kB)
+Collecting oct2py==5.2.0
+  Using cached oct2py-5.2.0-py2.py3-none-any.whl (44 kB)
+Collecting octave-kernel==0.32.0
+  Using cached octave_kernel-0.32.0-py3-none-any.whl (34 kB)
+Collecting ogr
+  Using cached ogr-0.47.1-py3-none-any.whl (77 kB)
